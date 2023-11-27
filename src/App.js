@@ -32,7 +32,7 @@ function Header() {
         <div className='nav-links'>
           <ul className='nav-ul'>
             <li className='dropdown'>
-              <a onClick={Dropdown}>Products</a>
+              <a onClick={Dropdown} href='#'>Products</a>
               <ul id='dropdown-menu' className='dropdown-menu active'>
                 <li>
                   <img src={SpenseIcon} alt='image'/>
@@ -60,9 +60,9 @@ function Header() {
                 </li>
               </ul>
             </li>
-            <li><a>Challanges</a></li>
-            <li><a>Resources</a></li>
-            <li><a>Other Links</a></li>
+            <li><a href='#'>Challanges</a></li>
+            <li><a href='#'>Resources</a></li>
+            <li><a href='#'>Other Links</a></li>
           </ul>
         </div>
         <div className='login'>

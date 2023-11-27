@@ -30,6 +30,10 @@ nav img {
   margin-left: 0;
 } 
 
+.nav-ul li a {
+  text-decoration: none;
+}
+
 .login {
   margin: auto 0 auto 0;
 }
