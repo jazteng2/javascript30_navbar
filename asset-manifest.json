@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/javascript30_navbar/static/css/main.549cec1b.css",
-    "main.js": "/javascript30_navbar/static/js/main.9458cb48.js",
+    "main.css": "/javascript30_navbar/static/css/main.d950738c.css",
+    "main.js": "/javascript30_navbar/static/js/main.543ef7b6.js",
     "static/js/787.f11b0b43.chunk.js": "/javascript30_navbar/static/js/787.f11b0b43.chunk.js",
     "static/media/Hero Image.png": "/javascript30_navbar/static/media/Hero Image.06223ac206496e01e5e6.png",
     "static/media/AlternativeTo Logo.svg": "/javascript30_navbar/static/media/AlternativeTo Logo.7f874c630a1428352cb9cd4e56b1db63.svg",
@@ -15,12 +15,12 @@
     "index.html": "/javascript30_navbar/index.html",
     "static/media/Fiber_Icon.svg": "/javascript30_navbar/static/media/Fiber_Icon.406edfc9038a183a0e88b7a3d57fadf5.svg",
     "static/media/Capterra Logo.svg": "/javascript30_navbar/static/media/Capterra Logo.9a6e352cdf0ba71369592254b14b4c3a.svg",
-    "main.549cec1b.css.map": "/javascript30_navbar/static/css/main.549cec1b.css.map",
-    "main.9458cb48.js.map": "/javascript30_navbar/static/js/main.9458cb48.js.map",
+    "main.d950738c.css.map": "/javascript30_navbar/static/css/main.d950738c.css.map",
+    "main.543ef7b6.js.map": "/javascript30_navbar/static/js/main.543ef7b6.js.map",
     "787.f11b0b43.chunk.js.map": "/javascript30_navbar/static/js/787.f11b0b43.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.549cec1b.css",
-    "static/js/main.9458cb48.js"
+    "static/css/main.d950738c.css",
+    "static/js/main.543ef7b6.js"
   ]
 }
